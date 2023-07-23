@@ -2,3 +2,6 @@ Rebase test and how it works.
 Testing Git fetch
 
 Adding a new line to test undoing commits
+
+Demo for the git commit --amend flag
+just adding another line to test the above
