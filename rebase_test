@@ -5,5 +5,3 @@ Adding a new line to test undoing commits
 
 Demo for the git commit --amend flag
 just adding another line to test the above
-
-Test to revert a commit in branch
